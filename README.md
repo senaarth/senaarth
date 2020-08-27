@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi! I'm Sena! 👋🏿</h1>
+<h3 align="center">I am a Software Engineering student from Brazil.</h3>
+</br></br>
+
+- 📚 I am studying Software Development Models and Algorithms Projects.
+- 💻 Currently learning Web and Mobile Development.
+- 📱 Learning Flutter and Node.
+- ⛹🏿‍♂️ I am also into basketball and speedcubing!
+- ✉️ Reach me at senaarth@gmail.com.
+
+</br>
+<p align="center">
+<a href="https://linkedin.com/in/senaarth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="senaarth" height="20" width="20" /></a>
+<a href="https://instagram.com/senaarth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="senaarth" height="20" width="20" /></a>
+</p>
 
 <!--
 **senaarth/senaarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
