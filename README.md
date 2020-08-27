@@ -1,6 +1,6 @@
-<h1 align="center">Hi! I'm Sena! 👋🏿</h1>
-<h3 align="center">I am a Software Engineering student from Brazil.</h3>
-</br></br>
+<h1>Hi! I'm Sena! 👋🏿</h1>
+<h3>I am a Software Engineering student from Brazil.</h3>
+</br>
 
 - 📚 I am studying Software Development Models and Algorithms Projects.
 - 💻 Currently learning Web and Mobile Development.
