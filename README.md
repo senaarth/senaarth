@@ -11,6 +11,7 @@
 ### Reach me at:
 [![Linkedin Badge](https://img.shields.io/badge/-Sena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/senaarth/)](https://www.linkedin.com/in/senaarth/)
 [![Gmail Badge](https://img.shields.io/badge/-senaarth@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:senaarth@gmail.com)](mailto:senaarth@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-senaarth-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/senaarth)](https://t.me/senaarth)
 
 
 <!--
