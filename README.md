@@ -4,7 +4,7 @@
 
 - 📚  I am studying Software Development Models and Algorithms Projects.
 - 💻  Currently learning Web and Mobile Development.
-- 📱  Learning Flutter and NodeJS and React Native.
+- 📱  Learning NodeJS and React Native.
 - ⛹🏿‍♂️  I am also into basketball and speedcubing!
 </br></br>
 
