@@ -1,10 +1,10 @@
 # Hi! I'm Sena! 👋🏿
-### I am a Software Engineering student from Brazil.
+### I am a Software Engineering student at University of Brasilia from Brazil.
 </br>
 
-- 📚  I am studying Software Development Models and Algorithms Projects.
+- 👷🏿  FrontEnd intern at Attinge Digital.
 - 💻  Currently learning Web and Mobile Development.
-- 📱  Learning NodeJS and React Native.
+- 📱  Studying NodeJS, ReactJS and React Native.
 - ⛹🏿‍♂️  I am also into basketball and speedcubing!
 </br></br>
 
